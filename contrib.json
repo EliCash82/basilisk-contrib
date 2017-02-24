@@ -1,0 +1,15 @@
+[
+    {
+        "name" : "Andrew Holloway",
+        "evidence": [
+            {
+                "type" : "harvester",
+                "source" : ["https://github.com/booc0mtaco/basilisk-contrib"]
+            },
+            {
+                "type" : "programmer",
+                "source" : ["https://github.com/booc0mtaco/", "http://untropy.net/"]
+            }
+        ]
+    }
+]
