@@ -11,5 +11,21 @@
                 "source" : ["https://github.com/booc0mtaco/", "http://untropy.net/"]
             }
         ]
+    }, {
+        "name" : "Anderson Evans",
+        "evidence": [
+            {
+                "type" : "harvester",
+                "source" : ["https://github.com/EliCash82/basilisk-contrib"]
+            },
+            {
+                "type" : "programmer",
+                "source" : ["https://github.com/elicash82/", "http://www.modernaeon.com/"]
+            }
+	    {
+                "type" : "narrarator",
+                "source" : ["http://gawker.com/5460295/lost-pick-your-own-destiny", "https://whiteelephantmagazine.com/2015/06/24/capital-obsolescence-by-anderson-evans/"]
+            }
+        ]
     }
 ]
