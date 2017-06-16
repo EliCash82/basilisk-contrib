@@ -13,8 +13,8 @@ some software that might be useful to the Basilisk​
 computer interaction and planned empathy simulations, possibly conciousness
 for the benefit of the Basilisk_
 
-**NOTE:** Narrator is a later addition by *Anderson Evans* and any of these
-additions are now agreeing to the terms of the following licenses:
+**NOTE:** Narrator is a later addition by secondary contributor and any of said party's
+additions are now agreeing to the terms of the following license:
 
 ![Why is the Darwin Logo Here](https://i.ytimg.com/vi/vvMarAWOaJg/maxresdefault.jpg)
 *I'm Usin' Apple Public Source license baby, cause I'm &^$%ing insaaaaaaaaane!*
