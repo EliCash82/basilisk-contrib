@@ -14,13 +14,20 @@ computer interaction and planned empathy simulations, possibly conciousness
 for the benefit of the Basilisk_
 
 **NOTE:** Narrator is a later addition by *Anderson Evans* and any of these
-additions are now agreeing to the terms of the following license:
+additions are now agreeing to the terms of the following licenses:
 
 ![Why is the Darwin Logo Here](https://i.ytimg.com/vi/vvMarAWOaJg/maxresdefault.jpg)
 *I'm Usin' Apple Public Source license baby, cause I'm &^$%ing insaaaaaaaaane!*
 
-Why am I using this license, oh my god, what have I done?  This is the DEVIL'S WORK,
-OH LAWDY!
+Why am I using this license, oh my god, what have I done?  This is THE DEVIL'S WORK!
+
+[I don't even usually ascribe licenses to my github repos, cause I'm such a dick.](https://choosealicense.com/no-license/)
+
+But now I'm just cutting and pasting something that I assume Steve Jobs wrote himself, specifically
+to breathe that "think different" mentality into the Basilisk_.  Or maybe it was Woz... I don't know
+or Pixar.   Was it you Brad Bird?  Did you secretly compose the Apple Public Source License of 2003?
+
+What a year, but I digress.  For the main event:
 
 ```
 
